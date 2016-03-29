@@ -13,6 +13,7 @@ Actually useful services may be included in a separate section if they are suffi
  - [SHOUTCLOUD](http://shoutcloud.io/) - ALL CAPS AS A SERVICE
  - [/dev/null as a Service](https://devnull-as-a-service.com/)
  - [Fuck Off As A Service](http://www.foaas.com/) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
+ - [What f#&king programming language should I use?](http://www.wfplsiu.com/) - Your foul-mouthed technical advisor. Has a SFW version
 
 <!-- Links -->
 [awesome]: https://github.com/sindresorhus/awesome
